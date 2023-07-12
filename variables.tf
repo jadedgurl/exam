@@ -11,9 +11,6 @@ variable "function_name" {
   type = string
   default = "function"
 }
-variable "backend" {
-  type = list(string)
-}
 variable "region" {
 type = list(string) 
 default=["northamerica-northeast1","us-central1"]
