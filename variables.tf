@@ -1,10 +1,4 @@
 
-provider "google" {
-  project = "mcit2022"
-  region = "us-central1"
-}
-
-
 variable "project" {
   type = string
   default = "mcit2022"
