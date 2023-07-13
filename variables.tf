@@ -5,7 +5,7 @@ variable "project_id" {
 }
 variable "name"{
   type = string
-  default = "function_neg"
+  default = "idkman"
 }
 variable "function_name" {
   type = string
