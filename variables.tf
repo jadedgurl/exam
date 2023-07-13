@@ -1,5 +1,5 @@
 
-variable "project" {
+variable "project_id" {
   type = string
   default = "mcit2022"
 }
